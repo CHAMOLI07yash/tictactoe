@@ -6,6 +6,7 @@ body{
      align-items: center;
      height:100vh;
      flex-direction:column ;
+     background-color: #ADC4CE;
 }
 #gameboard{
     width: 300px;
@@ -58,4 +59,15 @@ body{
     height:30%;
     width: 100%;
     margin-top: -15px;;
+}
+
+h1{
+    font-size: 50px;
+     font-weight: 600;
+     background-image: url(https://cdn.pixabay.com/photo/2015/12/09/01/02/mandalas-1084082_1280.jpg);
+     background-size: cover;
+     background-position: center;
+     background-clip: text;
+     -webkit-background-clip: text;
+     color:transparent;
 }
